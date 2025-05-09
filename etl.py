@@ -4,8 +4,8 @@ import pandas as pd
 import time
 
 # My spotify credentials from the Developer Dashboard// Spotify API
-SPOTIPY_CLIENT_ID = '9a99af1c909c44dda2cf1413b254bf90'
-SPOTIPY_CLIENT_SECRET = '278da29281654aaab559911cf61b42c7'
+SPOTIPY_CLIENT_ID = ''
+SPOTIPY_CLIENT_SECRET = ''
 # Using Spotify Credentials to authorize/log in
 client_credentials_manager = SpotifyClientCredentials(
     client_id=SPOTIPY_CLIENT_ID,
