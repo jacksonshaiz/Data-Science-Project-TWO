@@ -4,8 +4,8 @@ import requests
 from logic import get_response
 
 # --- SETTINGS ---
-GROQ_API_KEY = "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"  # <<<<< Replace with your real Groq API key
-DISCORD_BOT_TOKEN = "MTM2ODc4NTgwNjQ1NzcwMDQ2NA.GAv3mL.2plqRjhn9lBemxU8rKTDk3ydFuBXMU9JCG02OU"  # <<<<< Replace with your real Discord Bot token
+GROQ_API_KEY = ""  # <<<<< Replace with your real Groq API key
+DISCORD_BOT_TOKEN = ""  # <<<<< Replace with your real Discord Bot token
 
 # --- BOT SETUP ---
 intents = discord.Intents.default()
